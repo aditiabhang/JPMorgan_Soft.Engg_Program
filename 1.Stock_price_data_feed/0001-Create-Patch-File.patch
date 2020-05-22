@@ -1,0 +1,17 @@
+From 0fdd02ab976b655ed070400e86d7dc2a180b1263 Mon Sep 17 00:00:00 2001
+From: Aditi_Abhang <aditiaabhang@gmail.com>
+Date: Fri, 22 May 2020 10:24:04 -0500
+Subject: [PATCH] Create Patch File
+
+---
+ {JPMC-tech-task-1-py3 => 1.Stock_price_data_feed}/UnitTests.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename {JPMC-tech-task-1-py3 => 1.Stock_price_data_feed}/UnitTests.md (100%)
+
+diff --git a/JPMC-tech-task-1-py3/UnitTests.md b/1.Stock_price_data_feed/UnitTests.md
+similarity index 100%
+rename from JPMC-tech-task-1-py3/UnitTests.md
+rename to 1.Stock_price_data_feed/UnitTests.md
+-- 
+2.21.0
+
